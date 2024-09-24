@@ -30,7 +30,7 @@ function AboutMe() {
                         <br /><br />
                         I am experienced with Python, JavaScript, and Ruby on Rails based programming, and am always eager to learn new technologies using strong pattern recognition skills.
                         <br /><br />
-                        <b>I am currently open to looking for jobs in the software engineering industry (either in-person or remote), so please do not hesistate to contact me if you have any opportunites!</b>
+                        <b>I am currently open to looking for jobs in the software engineering industry (either in-person or remote), so please do not hesitate to contact me if you have any opportunities!</b>
                         <br /><br />
                         Outside of programming, my other hobbies and interests include computer games, anime, photography, and travelling!
                     </Typography>
