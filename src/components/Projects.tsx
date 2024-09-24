@@ -30,19 +30,19 @@ function Projects() {
                         />
                         <CardContent sx={{ backgroundColor: `${theme.card.backgroundColor}`, color: `${theme.text.color}` }}>
                             <Typography gutterBottom variant="h5" fontWeight="500">
-                                Project Irminsul
+                                Irminsul.GG
                             </Typography>
                             <Typography variant="body2">
                                 <i>(2021 - present)</i>
                                 <br />
-                                A comprehensive database created for the action role-playing game <i>Genshin Impact</i>.
+                                A comprehensive database website covering popular gacha games, including <i>Genshin Impact</i>, <i>Honkai: Star Rail</i>, and <i>Wuthering Waves</i>.
                                 <br />
-                                This site is constantly updated as new versions of the game are released, and as I learn new skills to implement in the site.
+                                This site is my long-term passion project, and it is constantly updated as new versions of each game are released. I also implement any new skills I have learned to the site.
                             </Typography>
                         </CardContent>
                         <CardActions sx={{ backgroundColor: `${theme.appbar.backgroundColor}`, color: `${theme.text.color}` }}>
-                            <Button size="medium" href={"https://bcheung98.github.io/project-irminsul/"} target="_blank">Visit</Button>
-                            <Button size="medium" href={"https://github.com/bcheung98/project-irminsul"} target="_blank">Repo</Button>
+                            <Button size="medium" href={"https://irminsul.gg/"} target="_blank">Visit</Button>
+                            <Button size="medium" href={"https://github.com/bcheung98/irminsul-gg"} target="_blank">Repo</Button>
                         </CardActions>
                     </Card>
                 </Grid>
@@ -58,11 +58,9 @@ function Projects() {
                                 Hurricane Tracker
                             </Typography>
                             <Typography variant="body2">
-                                <i>(2019 - 2020, 2024 - present)</i>
+                                <i>(2019 - 2020)</i>
                                 <br />
                                 An interactive tropical storm archive and viewer.
-                                <br />
-                                <i>I am currently in progress of revamping this website, so stay tuned for updates!</i>
                             </Typography>
                         </CardContent>
                         <CardActions sx={{ backgroundColor: `${theme.appbar.backgroundColor}`, color: `${theme.text.color}` }}>

@@ -16,7 +16,7 @@ function BottomNav() {
         }}
         >
             <Typography variant="body1">
-                Last Updated: July 17, 2024
+                Last Updated: September 23, 2024
             </Typography>
         </AppBar>
     )
